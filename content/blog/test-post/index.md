@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 date: 2023-11-28T18:56:58+05:30
-draft: true
+draft: false
 cover.image: "cover.jpg"
 cover.relative: true
 cover.responsiveImages: true
