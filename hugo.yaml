@@ -14,8 +14,8 @@ minify:
 params:
   env: production.
   title: Aahana
-  description: "I am Dum Dum Panda"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "Food, Art and More!!"
+  keywords: [Blog, Portfolio, PaperMod, Recipes, Food, Art]
   # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["/images/logo.png"]
@@ -79,7 +79,7 @@ params:
     - name: email
       url: "mailto:aahana.ingale@proton.me"
     - name: linkedin
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/aahana-ingale-aa018b29b/"
     - name: github
       url: "https://github.com/aahana-ingale"
 
@@ -122,7 +122,7 @@ menu:
       url: /tags/
       weight: 50
     - identifier: about
-      name: About
+      name: About-Me
       url: /about/
       weight: 60
     - identifier: search
