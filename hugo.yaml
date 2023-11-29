@@ -43,12 +43,12 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
+    # favicon: "/assets/favicon.ico"
+    # favicon16x16: "/assets/favicon16x16.png"
+    # favicon32x32: "/assets/favicon32x32.png"
+    # apple_touch_icon: "/assets/apple_touch_icon.png"
+    # safari_pinned_tab: "/assets/apple_touch_icon.png"
     # disableFingerprinting: true
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon16x16.png"
-    favicon32x32: "/favicon32x32.png"
-    apple_touch_icon: "/apple_touch_icon.png"
-    safari_pinned_tab: "/apple_touch_icon.png"
 
   label:
     text: "The Panda Chef"
