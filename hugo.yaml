@@ -57,9 +57,9 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: "Food, Art and More!! 💃"
-    subtitle: "I am Dum Dum Panda"
+    subtitle: "Hello, I'm Aahana Ingale! My passion for good food has driven my career choices. Currently pursuing a Bachelor's degree in Food Nutrition and Dietetics, I am eager to share my experiences and insights with all of you."
     imageUrl: "/images/logo.png"
     imageWidth: 360
     imageHeight: 360
@@ -73,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "I am Dum Dum Panda"
+    Content: "Hello, I'm Aahana Ingale! My passion for good food has driven my career choices. Currently pursuing a Bachelor's degree in Food Nutrition and Dietetics, I am eager to share my experiences and insights with all of you."
 
   socialIcons:
     - name: email
