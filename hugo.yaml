@@ -57,7 +57,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: "Food, Art and More!! 💃"
     subtitle: "Hello, I'm Aahana Ingale! My passion for good food has driven my career choices. Currently pursuing a Bachelor's degree in Food Nutrition and Dietetics, I am eager to share my experiences and insights with all of you."
     imageUrl: "/images/logo.png"
