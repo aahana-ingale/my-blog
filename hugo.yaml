@@ -38,7 +38,7 @@ params:
   tocopen: false
 
   # source at layouts/partials/comments.html
-  comments: false
+  comments: true
 
   ShowShareButtons: true
   ShareButtons: ["linkedin", "twitter", "whatsapp", "facebook"]
