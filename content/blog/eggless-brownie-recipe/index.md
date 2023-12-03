@@ -53,7 +53,9 @@ Everyone loves a good gooey brownie and so here I share my eggless brownie recip
   - Pour the batter in the greased tin and sprinkle the remaining chocolate and chopped walnuts and bake the batter in the preheated oven for 15-20 minutes.
 - Cool, remove from mould and enjoy!✨
 
--Final product :fork_and_knife_with_plate:
+## Final product :fork_and_knife_with_plate:
+
 Experience the heavenly goodness and joy of baking yourself a treat guilt-free.
 
 ![brownie-gif](https://media.tenor.com/qqEu3SSrPcEAAAAC/brownie-yum.gif)
+``
