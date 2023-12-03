@@ -33,15 +33,27 @@ Everyone loves a good gooey brownie and so here I share my eggless brownie recip
 
 ## Preparation :bowl_with_spoon:
 
-- Preheat the oven at _180°C for 10 minutes_.
-- Grease the cake tin with margarine.
-- Sift flour, powdered sugar, cocoa powder and baking soda and powder.
-- Grate the chocolate and keep it aside in fridge.
-- Once dry ingredients are sifted together make a small circle in between and gradually pour the milk and vanilla essence.
-- The consistency of the batter should be thick and hence the milk should be added gradually in the **W method: dry-wet-dry-wet-dry**.
-- Once the batter is ready add in the the grated chocolate and chopped walnuts keeping a small amount aside.
-- Pour the batter in the greased tin and sprinkle the remaining chocolate and chopped walnuts.
-- Bake in preheated oven for 15-20 minutes.
+- Step 1 : Preheating the oven
+  - Preheat the oven at _180°C for 10 minutes_.
+- Step 2: Greasing the cake tin
+  - Generously grease the cake tin with margarine for a smooth release of the baked brownie.
+- Step 3: Dry Ingredients
+  - Sift flour, powdered sugar, cocoa powder and baking soda and powder atleast _3 times_ to make sure to incorporate some amount of air.
+- Step 4: Chocolate delight
+  - Grate the chocolate and keep it aside in fridge for a nice melty moment
+- Step 5: Mixing the batter
+  - Once dry ingredients are sifted together make a small circle in between and gradually pour the milk and vanilla essence.
+  - _The consistency of the batter should be thick and hence the milk should be added gradually in the <cite>W method [^1]</cite>_.
+
+[^1]: The dry-wet-dry-wet-dry method - [How to Add Dry/Wet Ingredients to Cake Batter - YouTube](https://www.youtube.com/watch?v=6JREPWs3_1Y)
+
+- Step 6: Addition of Chocolate and Walnuts
+  - Once the batter is ready add in the the grated chocolate and chopped walnuts reserving a small amount for later use.
+- Step 7: Baking
+  - Pour the batter in the greased tin and sprinkle the remaining chocolate and chopped walnuts and bake the batter in the preheated oven for 15-20 minutes.
 - Cool, remove from mould and enjoy!✨
+
+-Final product :fork_and_knife_with_plate:
+Experience the heavenly goodness and joy of baking yourself a treat guilt-free.
 
 ![brownie-gif](https://media.tenor.com/qqEu3SSrPcEAAAAC/brownie-yum.gif)
