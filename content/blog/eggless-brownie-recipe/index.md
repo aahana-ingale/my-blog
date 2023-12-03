@@ -38,9 +38,9 @@ Everyone loves a good gooey brownie and so here I share my eggless brownie recip
 - Step 2: Greasing the cake tin
   - Generously grease the cake tin with margarine for a smooth release of the baked brownie.
 - Step 3: Dry Ingredients
-  - Sift flour, powdered sugar, cocoa powder and baking soda and powder atleast _3 times_ to make sure to incorporate some amount of air.
+  - Sift flour, powdered sugar, cocoa powder and baking soda and powder atleast _3 times_ to make sure air is incorporated.
 - Step 4: Chocolate delight
-  - Grate the chocolate and keep it aside in fridge for a nice melty moment
+  - Grate the chocolate and keep it aside in fridge for a nice melty moment.
 - Step 5: Mixing the batter
   - Once dry ingredients are sifted together make a small circle in between and gradually pour the milk and vanilla essence.
   - _The consistency of the batter should be thick and hence the milk should be added gradually in the <cite>W method [^1]</cite>_.
