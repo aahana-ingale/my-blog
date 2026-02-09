@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production.
+  env: production
   title: Aahana
   description: "Food, Art and More!!"
   keywords: [Blog, Portfolio, PaperMod, Recipes, Food, Art]
@@ -37,7 +37,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-
   # source at layouts/partials/comments.html
   comments: false
 
