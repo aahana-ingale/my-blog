@@ -19,15 +19,10 @@ Two systems regulate appetite:
 - **Homeostatic hunger** (physical hunger)  
 - **Hedonic hunger** (emotional hunger)
 
-## 1. Physical Hunger: The Homeostatic System
+## Physical Hunger: The Homeostatic System
 
-![Physical Hunger]()
-{{< figure
-  src="images/physical-hunger.jpeg"
-  alt="Physical Hunger"
-  caption="Physical Hunger"
-  class="ma0 w-75"
->}}
+![Physical Hunger](images/physical-hunger.jpeg)
+
 Physical hunger maintains energy balance. When blood sugar drops or the stomach remains empty for several hours, the body signals that fuel is required.
 
 Two hormones play a central role:
@@ -39,7 +34,7 @@ Skipping meals during long lectures or busy days often triggers this system. Ref
 
 Meals that combine **protein, fiber, and fats** slow digestion, stabilize blood sugar, and support balanced ghrelin and leptin signaling.
 
-## 2. Emotional Hunger: The Hedonic System
+## Emotional Hunger: The Hedonic System
 
 Emotional hunger originates in the brain’s reward system. Stress activates cortisol release. Elevated cortisol reduces dopamine activity. Lower dopamine increases motivation for quick reward, which often appears as cravings.
 
@@ -56,7 +51,7 @@ Certain cravings are also associated with nutrient status:
 
 These associations contribute to pattern recognition rather than diagnosis.
 
-## 3. Addressing Cravings: The HALT Check
+## Addressing Cravings: The HALT Check
 
 Emotional hunger responds to context rather than energy need. A brief self check can clarify the signal before eating.
 
