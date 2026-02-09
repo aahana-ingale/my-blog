@@ -20,7 +20,7 @@ params:
   # author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["/images/logo.png"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "January 2, 2006 15:04"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
