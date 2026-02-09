@@ -1,6 +1,7 @@
 baseURL: "https://aahana.pages.dev/"
 title: Aahana Ingale
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -145,6 +146,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 
 copyright: Aahana Ingale
 enableEmoji: true
