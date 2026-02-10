@@ -1,0 +1,5 @@
+<div class="gallery">
+    {{ range .Page.Resources.Match "*.{jpg,jpeg,png,webp}"}}
+      <img src="{{ .RelPermalink }}" alt="" />
+    {{ end }}
+</div>

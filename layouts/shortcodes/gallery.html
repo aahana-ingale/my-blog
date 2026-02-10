@@ -1,0 +1,41 @@
+{{- $layout := .Get "layout" | default "grid" -}}
+{{- $galleryID := printf "gallery-%s" .Page.File.UniqueID -}}
+
+<div class="pm-gallery {{ $layout }}" data-gallery-id="{{ $galleryID }}">
+  {{- range .Page.Resources.Match "*.{jpg,jpeg,png,webp,gif}" -}}
+    {{- $full := .RelPermalink -}}
+
+    {{/* Optional: create a smaller thumb for faster loading */}}
+    {{- $thumb := .Fit "900x900 q80" -}}
+
+    {{/* Caption preference:
+         1) EXIF ImageDescription (if available)
+         2) filename (fallback)
+    */}}
+    {{- $caption := "" -}}
+    {{- with .Exif -}}
+      {{- with .Tags.ImageDescription -}}
+        {{- $caption = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if eq $caption "" -}}
+      {{- $caption = .Name -}}
+    {{- end -}}
+
+    <a
+      href="{{ $full }}"
+      class="pm-gallery-item"
+      data-glightbox="title: {{ $caption | plainify }}; description: ;"
+      data-gallery="{{ $galleryID }}"
+    >
+      <img
+        src="{{ $thumb.RelPermalink }}"
+        width="{{ $thumb.Width }}"
+        height="{{ $thumb.Height }}"
+        alt="{{ $caption | plainify }}"
+        loading="lazy"
+        decoding="async"
+      >
+    </a>
+  {{- end -}}
+</div>

@@ -1,0 +1,45 @@
+.pm-gallery {
+    margin-top: 1rem;
+}
+
+.pm-gallery-item {
+    display: block;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.pm-gallery-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* GRID */
+.pm-gallery.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+/* MASONRY (CSS columns – lightweight “Pinterest-like”) */
+.pm-gallery.masonry {
+    column-count: 3;
+    column-gap: 1rem;
+}
+
+.pm-gallery.masonry .pm-gallery-item {
+    break-inside: avoid;
+    margin: 0 0 1rem;
+}
+
+@media (max-width: 900px) {
+    .pm-gallery.masonry {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 600px) {
+    .pm-gallery.masonry {
+        column-count: 1;
+    }
+}
