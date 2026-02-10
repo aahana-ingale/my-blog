@@ -92,7 +92,7 @@ params:
     autoCover: true
 
   editPost:
-    URL: "https://github.com/aahana-ingale/my-blog/content"
+    URL: "https://github.com/aahana-ingale/my-blog/tree/main/content/blog"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
