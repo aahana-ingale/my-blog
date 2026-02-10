@@ -3,10 +3,9 @@ title: "Eggless Brownie Recipe: A Guilt-Free Delight 💖"
 date: 2023-12-02T21:00:37+05:30
 draft: false
 tags: ["dessert", "chocolate", "brownie", "all-purpose-flour", "guilt-free"]
-cover.image: "images/eggless-brownie.png"
-cover.relative: true
-cover.responsiveImages: true
-cover.hidden: false
+# cover:
+#     image: "images/eggless-brownie.png"
+#     hidden: true
 ---
 
 Everyone loves a good gooey brownie and so here I share my eggless brownie recipe with reduced sugar content and extra amount of happiness💟

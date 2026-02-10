@@ -3,10 +3,10 @@ title: 'When Hunger Is Not About Food'
 date: 2026-02-09T23:48:35+05:30
 draft: false
 tags: ["NutritionalPsychology", "MindfulEating", "GutBrainAxis", "BloodSugarBalance", "Micronutrient", "NutritionStudent"]
-cover.linkFullImages: "cover.png"
-cover.relative: true
-cover.responsiveImages: true
-cover.hidden: false
+cover:
+    image: "cover.png"
+    hidden: false
+    responsiveImages: true
 ---
 
 As a nutritionist, I hear this often:  

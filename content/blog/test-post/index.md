@@ -2,10 +2,11 @@
 title: "Test Post"
 date: 2023-11-28T18:56:58+05:30
 draft: true
-cover.image: "cover.jpg"
-cover.relative: true
-cover.responsiveImages: true
-cover.hidden: false
+cover:
+    image: "cover.jpg"
+    relative: true
+    responsiveImages: true
+    hidden: false
 ---
 
 ## Est digitis fecissent sensit
@@ -31,11 +32,11 @@ pharetramque tristi agrestis utro, admisitque poscit a vidit est tenet. [Et qua]
 seram illo abstinet geminus nudaque, ad fuerunt femineos petii dixi: culpam
 erat.
 
--   Tritonida effice spesque
--   Precatus graminis mansit
--   Et telis in dixit si i vertit
--   Subitis mersis draconem thalamos
--   Terramque meo forma suo Lelegas lecta
+- Tritonida effice spesque
+- Precatus graminis mansit
+- Et telis in dixit si i vertit
+- Subitis mersis draconem thalamos
+- Terramque meo forma suo Lelegas lecta
 
 ## Imagine fugat mixtaque vultus
 
@@ -44,10 +45,10 @@ quem vagina. Lora iubet tamen _mallet ac_ eadem sacra dixere et ille: rerum
 Cadmus erigor qui spumas. Genitore fortis fama seque, terrena membra, [flamma
 longa]; tamen hanc.
 
--   In ecquid fugis in hedera et vel
--   Abstrahit rorat indignantem et dabat obstruat antiquae
--   Cardine glandes
--   Hac restabat terebat
+- In ecquid fugis in hedera et vel
+- Abstrahit rorat indignantem et dabat obstruat antiquae
+- Cardine glandes
+- Hac restabat terebat
 
 ### Similem mortale
 
