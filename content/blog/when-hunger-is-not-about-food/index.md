@@ -21,7 +21,11 @@ Two systems regulate appetite:
 
 ## Physical Hunger: The Homeostatic System
 
-![Physical Hunger](images/physical-hunger.jpeg)
+{{< figure
+  src="images/physical-hunger.jpeg"
+  caption="Physical Hunger"
+  align="center"
+>}}
 
 Physical hunger maintains energy balance. When blood sugar drops or the stomach remains empty for several hours, the body signals that fuel is required.
 
@@ -38,7 +42,11 @@ Meals that combine **protein, fiber, and fats** slow digestion, stabilize blood 
 
 Emotional hunger originates in the brain’s reward system. Stress activates cortisol release. Elevated cortisol reduces dopamine activity. Lower dopamine increases motivation for quick reward, which often appears as cravings.
 
-![Emotional Hunger](images/emotional-hunger.jpeg)
+{{< figure
+  src="images/emotional-hunger.jpeg"
+  caption="Emotional Hunger"
+  align="center"
+>}}
 
 This pattern commonly shows up during exam periods, late night studying, or after prolonged mental fatigue.
 
