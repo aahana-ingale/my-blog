@@ -25,7 +25,7 @@ One simple swap involves choosing smart foods such as blueberries instead of sug
 ## The Brain Requires Stability
 
 {{< figure
-  src="images/photo6.webp"
+  src="images/fig6.webp"
   align="center"
 >}}
 
@@ -45,7 +45,7 @@ Sugary drinks lead to:
 - Poor concentration  
 
 {{< figure
-  src="images/photo3.jpeg"
+  src="images/fig3.jpeg"
   caption="Sugary Drinks"
   align="center"
 >}}
@@ -62,7 +62,7 @@ Blueberries support the systems that help the brain function and maintain steadi
 Blueberries contain anthocyanins, the natural pigments that give them their blue color.
 
 {{< figure
-  src="images/photo2.jpeg"
+  src="images/fig2.jpeg"
   align="center"
 >}}
 
@@ -123,7 +123,7 @@ Consistency improves academic performance over time.
 Blueberries can be included safely in toddler diets.
 
 {{< figure
-  src="images/photo5.jpeg"
+  src="images/fig5.jpeg"
   align="center"
 >}}
 
