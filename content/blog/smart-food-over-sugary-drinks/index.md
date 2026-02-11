@@ -45,7 +45,7 @@ Sugary drinks lead to:
 - Poor concentration  
 
 {{< figure
-  src="images/fig3.jpeg"
+  src="images/fig8.jpg"
   caption="Sugary Drinks"
   align="center"
 >}}
@@ -123,7 +123,7 @@ Consistency improves academic performance over time.
 Blueberries can be included safely in toddler diets.
 
 {{< figure
-  src="images/fig5.jpeg"
+  src="images/fig7.webp"
   align="center"
 >}}
 
