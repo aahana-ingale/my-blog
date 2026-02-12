@@ -1,8 +1,8 @@
 ---
 title: 'It Was Never About Roti'
 date: 2026-02-12T19:44:29+05:30
-draft: true
-tags: [""]
+draft: false
+tags: ["Fad diets", "Carbohydrates" , "KetoDiets"]
 cover:
     image: "Cover.webp"
     hidden: false
