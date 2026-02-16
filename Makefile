@@ -1,9 +1,9 @@
 CONTENT_DIR=content/blog
 LAST_FILE=.last_post
 
-define slugify
-echo $(1) | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9 ]//g' | sed 's/ /-/g'
-endef
+# ===== START DEV SERVER (manual) =====
+dev:
+	hugo server -D --bind 0.0.0.0 --disableFastRender
 
 # ===== CREATE NEW BLOG POST =====
 new:
@@ -17,8 +17,10 @@ new:
 	mkdir -p $(CONTENT_DIR)/$(SLUG)/images
 	echo "$(SLUG)" > $(LAST_FILE)
 	echo "Created blog: $(SLUG)"
+	@echo "Opening the new post in VS Code..."
 	code $(CONTENT_DIR)/$(SLUG)/index.md
 
+# Trick to allow quoted arguments
 %:
 	@:
 

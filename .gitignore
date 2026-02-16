@@ -36,3 +36,6 @@ hugo.linux
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo
+
+hugo.log
+last_post

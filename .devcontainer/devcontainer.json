@@ -13,6 +13,6 @@
             "onAutoForward": "openBrowser"
         }
     },
-    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y build-essential",
-    "postStartCommand": "hugo server -D --bind 0.0.0.0"
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y build-essential"
+    // "postStartCommand": "nohup hugo server -D --bind 0.0.0.0 --disableFastRender > hugo.log 2>&1 &"
 }
