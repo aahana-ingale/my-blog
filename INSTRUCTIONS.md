@@ -97,9 +97,13 @@ Both methods use files from the `images` folder inside your post directory.
 
 ## 👀 Preview Your Post
 
-The preview server is already running automatically.
+In the terminal, type:
 
-Just refresh the browser to see your changes.
+```sh
+make dev
+```
+
+Click on the localhost:1313 and the forwarded browser should open. Refresh the browser to see your changes.
 
 Draft posts are visible in preview, but make sure you set `draft: false` before publishing.
 
